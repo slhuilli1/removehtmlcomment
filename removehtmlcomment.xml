@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="Content">
+	<name>Supprime tous les commentaires HTML d'un article</name>
+	<author>Sebastien LHUILLIER</author>
+	<creationDate>Janvier 2023</creationDate>
+	<copyright>Sébastien LHUILLIER</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>sebastien.lhuillier+joomla@gmail.com</authorEmail>
+	<authorUrl>www.sebastien-lhuillier.com</authorUrl>
+	<version>1.0</version>
+	<description>Affiche un lien vers le fichiers (distant) s'il est accessible</description>
+	<files>
+		<filename plugin="removehtmlcomment">removehtmlcomment.php</filename>
+		<filename>removehtmlcomment.xml</filename>				
+	</files>	
+</extension>
